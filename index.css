@@ -1,12 +1,26 @@
 .navbar{
   background-image:url('https://secure.static.tumblr.com/c11928ec9f129b07df8211b2b02f8d7a/xsaeuvf/YrHmuky0r/tumblr_static_jellybellypile2.jpg');
   background-repeat:repeat-y;
+  color:#53a0db;/*blue*/
+  opacity:0.95;
 }
+.navbar-header h2{
+  background-color:white
 
+}
 
 .navbar-brand{
 width: auto;
 height:200px;
+}
+ul li a{
+  color:#53a0db;
+  text-decoration:none;
+  background-color:white;
+}
+ul li a:hover{
+  background-color:green;
+  color:white;
 }
 /*pictures for each section*/
 .head-pic{
@@ -30,6 +44,9 @@ hr{
   border-bottom: 1px solid white;
 }
 
+h2{
+  color:#6af2b7;
+}
 /*strava plugin*/
 iframe{
 
