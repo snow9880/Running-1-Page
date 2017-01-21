@@ -12,15 +12,17 @@
 .navbar-brand{
 width: auto;
 height:200px;
+text-align: center;
 }
-ul li a{
-  color:#53a0db;
+.navbar ul li a{
+  color:#53a0db !important;
+  padding: 1px;
   text-decoration:none;
   background-color:white;
 }
-ul li a:hover{
-  background-color:green;
-  color:white;
+.navbar ul li a:hover{
+  text-decoration:underline;
+  color:#ffffff !important;
 }
 /*pictures for each section*/
 .head-pic{
