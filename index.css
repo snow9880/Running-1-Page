@@ -24,8 +24,8 @@ ul li a:hover{
 }
 /*pictures for each section*/
 .head-pic{
-height:200px;
-width:auto;
+max-height:500px;
+max-width:500px;
 
 }
 /*break line*/
