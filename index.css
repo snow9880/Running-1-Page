@@ -44,10 +44,15 @@ hr{
   border-bottom: 1px solid white;
 }
 
-h2{
-  color:#6af2b7;
+.mainTitle{
+  background-color:#6AF2B7;
+  color:white;
+  padding:2%;
+  text-align: center;
 }
 /*strava plugin*/
-iframe{
+.strava{
+  padding-top:20px;
+  text-align:center
 
 }
