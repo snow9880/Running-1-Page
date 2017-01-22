@@ -44,7 +44,7 @@ border-radius:2%;
 }
 .goalPic{
   margin:auto;
-  
+
 }
 /*break line*/
 hr{
@@ -61,7 +61,7 @@ hr{
   border-top: 2px dotted green;
   border-bottom: 1px solid white;
 }
-
+/*Headings*/
 .mainTitle{
   background-color:#00b159;
   color:white;
@@ -71,10 +71,15 @@ hr{
 /*strava plugin*/
 .strava{
   padding-top:20px;
-  text-align:center
+  text-align:center;
 }
 /*Goals*/
 .goal{
   text-align:center;
   color:#d11141;
+}
+
+/*footer*/
+footer{
+  text-align:center; 
 }
