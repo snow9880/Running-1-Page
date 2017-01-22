@@ -7,8 +7,8 @@ Yellow: color:#ffc425;
 
 */
 .navbar{
-  background:url('https://secure.static.tumblr.com/c11928ec9f129b07df8211b2b02f8d7a/xsaeuvf/YrHmuky0r/tumblr_static_jellybellypile2.jpg');
-  background-repeat:repeat-y;
+  background:url('pictures/jellybeanbkgd.jpg');
+  background-repeat: repeat-x;
   color:#00aedb;/*blue*/
   opacity:0.95;
 }
@@ -40,9 +40,9 @@ text-align: center;
 }
 /*pictures for each section*/
 .head-pic{
-max-height:500px;
+/*max-height:500px;
 max-width:500px;
-
+*/
 }
 /*break line*/
 hr{
