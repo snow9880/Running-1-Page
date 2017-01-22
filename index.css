@@ -1,3 +1,11 @@
+/*color Pallete
+Pink: color:#d11141;
+Green: color:#00b159;
+Blue: color:#00aedb;
+Orange: color:#f37735;
+Yellow: color:#ffc425;
+
+*/
 .navbar{
   background:url('https://secure.static.tumblr.com/c11928ec9f129b07df8211b2b02f8d7a/xsaeuvf/YrHmuky0r/tumblr_static_jellybellypile2.jpg');
   background-repeat:repeat-y;
@@ -42,7 +50,7 @@ hr{
   font-size: 1px;
   line-height: 0;
   clear: both;
-  border-top: 1px solid green;
+  border-top: 2px dotted green;
   border-bottom: 1px solid white;
 }
 
