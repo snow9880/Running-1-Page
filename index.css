@@ -46,6 +46,9 @@ border-radius:2%;
   margin:auto;
 
 }
+h3{
+  color:#d11141;
+}
 /*break line*/
 hr{
   display:block;
