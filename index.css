@@ -79,6 +79,17 @@ hr{
   color:#d11141;
 
 }
+/*Blog*/
+.blogTitle {
+  color: #d11141;
+
+}
+.date{
+  color: #00aedb;
+}
+.info{
+  color:black;
+}
 
 /*footer*/
 footer{
