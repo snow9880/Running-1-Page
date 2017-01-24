@@ -46,6 +46,15 @@ border-radius:2%;
   margin:auto;
 
 }
+.badge{
+  background:none;
+}
+.badge:hover{
+  opacity:0.5;
+  text-decoration:none;
+  background:none;
+  background-size:150%
+}
 h3{
   color:#d11141;
 }
