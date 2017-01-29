@@ -6,6 +6,7 @@ Orange: color:#f37735;
 Yellow: color:#ffc425;
 
 */
+/*navigation bar*/
 .navbar{
   background:url('pictures/jellybeanbkgd.jpg');
   background-repeat: repeat-x;
@@ -38,6 +39,7 @@ text-align: center;
   text-decoration:underline;
   color:#ffffff !important;
 }
+
 /*pictures for each section*/
 .head-pic{
 border-radius:2%;
@@ -46,6 +48,8 @@ border-radius:2%;
   margin:auto;
 
 }
+
+/*Ambassador Badges*/
 .badge{
   background:none;
 }
@@ -53,11 +57,13 @@ border-radius:2%;
   opacity:0.5;
   text-decoration:none;
   background:none;
-  background-size:150%
 }
+
+/*Subheading and blog post headings*/
 h3{
   color:#d11141;
 }
+
 /*break line*/
 hr{
   display:block;
