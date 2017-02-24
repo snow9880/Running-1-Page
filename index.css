@@ -81,11 +81,15 @@ hr{
 }
 /*Headings*/
 .mainTitle{
-  background-color:#00b159;
+  background-color:#00aedb;
   color:white;
   padding:2%;
   text-align: center;
   border-radius:6px 18px;
+}
+.fullBack{
+  background-color: #00b159;
+  color:white;
 }
 /*strava plugin*/
 .strava{
