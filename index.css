@@ -89,7 +89,7 @@ hr{
   border-bottom: 1px solid white;
 }
 /*Headings*/
-.mainTitle{
+.mainTitle a{
   background-color:#00aedb;
   color:white;
   padding:2%;
