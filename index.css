@@ -48,7 +48,16 @@ border-radius:2%;
   margin:auto;
 
 }
+.aboutPic{
+  margin: 5%;
+  border-radius: 30%;
+}
 
+/*About me*/
+#aboutMe{
+  background-color: #00b159;
+  border-bottom: 2px solid blue;
+}
 /*Ambassador Badges*/
 .badge{
   background:none;
