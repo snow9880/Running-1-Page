@@ -61,14 +61,7 @@ border-radius:2%;
 }
 
 /*About me*/
-.mainTitleGreen a{
 
-  width:auto;
-  color:#f37735;
-  padding:2%;
-  text-align: center;
-  border-radius:6px 18px;
-}
 /*Ambassador Badges*/
 .badge{
   background:none;
