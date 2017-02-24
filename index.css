@@ -73,6 +73,7 @@ border-radius:2%;
 }
 .whiteBack{
   background-color:white;
+  margin:2%;
 }
 
 /*Subheading and blog post headings*/
@@ -81,7 +82,7 @@ h3{
 }
 
 /*break line*/
-hr{
+/*hr{
   display:block;
   position: relative;
   padding: 0px;
@@ -94,11 +95,21 @@ hr{
   clear: both;
   border-top: 2px dotted green;
   border-bottom: 1px solid white;
-}
+}*/
 /*Headings*/
 .mainTitle a{
   background-color:#00aedb;
+  display:block;
   color:white;
+  padding:2%;
+  margin-bottom:5%;
+  text-align: center;
+  border-radius:6px 18px;
+}
+.mainTitleGreen a{
+  display:block;
+  width:auto;
+  color:navyBlue;
   padding:2%;
   text-align: center;
   border-radius:6px 18px;
@@ -106,6 +117,7 @@ hr{
 .fullBack{
   background-color: #00b159;
   color:white;
+
 }
 /*strava plugin*/
 .strava{
@@ -125,10 +137,11 @@ hr{
 
 }
 .date{
-  color: #00aedb;
+  color: black;
 }
 .info{
-  color:black;
+  text-indent:2em;
+  color:white;
 }
 
 /*footer*/
