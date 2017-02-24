@@ -6,12 +6,16 @@ Orange: color:#f37735;
 Yellow: color:#ffc425;
 
 */
+.mainBody{
+  background-color:#00b159;
+}
 /*navigation bar*/
 .navbar{
   background:url('pictures/jellybeanbkgd.jpg');
   background-repeat: repeat-x;
   color:#00aedb;/*blue*/
   opacity:0.95;
+  border:none;
 }
 .navbar-header h2{
   background-color:white;
@@ -51,6 +55,9 @@ border-radius:2%;
 .aboutPic{
   margin: 5%;
   border-radius: 30%;
+}
+#prPic{
+  margin-bottom:5%;
 }
 
 /*About me*/
