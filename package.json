@@ -1,0 +1,22 @@
+{
+  "name": "running-1-page",
+  "version": "1.0.0",
+  "description": "Running website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snow9880/Running-1-Page.git"
+  },
+  "author": "Michelle Johnston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snow9880/Running-1-Page/issues"
+  },
+  "homepage": "https://github.com/snow9880/Running-1-Page#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
